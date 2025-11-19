@@ -89,12 +89,11 @@ Inspiration: Dragon Ball Z
 
 Powered by: Open-source Linux tools
 
-If you want, I can also add:
+██████╗  ██████╗ ███████╗██╗  ██╗██╗     ███████╗
+██╔══██╗██╔═══██╗██╔════╝██║ ██╔╝██║     ██╔════╝
+██████╔╝██║   ██║█████╗  █████╔╝ ██║     █████╗  
+██╔══██╗██║   ██║██╔══╝  ██╔═██╗ ██║     ██╔══╝  
+██║  ██║╚██████╔╝███████╗██║  ██╗███████╗███████╗
+╚═╝  ╚═╝ ╚═════╝ ╚══════╝╚═╝  ╚═╝╚══════╝╚══════╝
+          **ROSHI FCKING OS – KAMEHAMEHA EDITION**
 
-A Turtle Hermit ASCII logo
-
-A Dragon Ball–styled banner
-
-Badges like “Powered by Cinnamon” or “Built the Hard Way”
-
-Just say the word.
