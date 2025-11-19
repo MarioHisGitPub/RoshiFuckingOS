@@ -1,39 +1,41 @@
 Roshi Fcking OS 🐢🔥
 
-Roshi Fcking OS is a lightweight, fast, and minimal Linux distribution built with the Cinnamon desktop environment — inspired by Master Roshi, the legendary Turtle Hermit from Dragon Ball Z.
+Roshi Fcking OS is a fast, minimal Linux distribution featuring the Cinnamon desktop environment — inspired by Master Roshi from Dragon Ball Z.
 
-Smooth, powerful, and surprisingly efficient — just like Roshi when he gets serious.
+Created by Mario, dedicated to his friend Roshi.
+
+Built to be smooth, lightweight, and powerful — just like the Turtle Hermit himself.
 
 🐢✨ Features
 
-Speed Over Everything
-Fast boot times and a clean desktop, without unnecessary bloat.
+Fast & Lightweight
+Boots quickly and runs smoothly even on older hardware.
 
 Cinnamon Desktop
-Beautiful, slick, and customizable — a modern interface that just works.
+Modern, clean, and customizable.
 
 Essential Tools Preinstalled
-Everything you need to get started immediately.
+Ready to use right after installation.
 
-Lightweight Like a Turtle Shell
-Runs great on older machines, laptops, and tiny PCs.
+Minimal by Design
+No bloat. No unnecessary services. Just a clean Linux experience.
 
-Custom Built
-Crafted manually using chroot and GRUB — no junk, no filler.
+Handcrafted Build
+Built manually using chroot and GRUB: no Cubic, no automated builders — pure control.
 
 🌀 System Requirements
 
 CPU: 64-bit
 
-RAM: 2 GB minimum (4+ GB recommended)
+RAM: 2 GB (4+ recommended)
 
 Storage: 10 GB
 
-GPU: Intel / AMD / NVIDIA (open drivers recommended)
+GPU: Intel/AMD/NVIDIA (open drivers recommended)
 
 🔥 Installation
 
-Download the Roshi Fcking OS ISO
+Download the Roshi Fcking OS ISO.
 
 Flash it using:
 
@@ -41,17 +43,17 @@ balenaEtcher
 
 Rufus
 
-dd (Linux users)
+or dd on Linux
 
-Boot from USB
+Boot from USB.
 
-Install and unleash the Turtle Hermit power
+Install and enjoy the Turtle Hermit experience.
 
 🛠 Build Notes
 
-Roshi Fcking OS includes:
+Included components:
 
-Cinnamon Desktop
+Cinnamon Desktop Environment
 
 LightDM
 
@@ -59,35 +61,40 @@ Xorg
 
 NetworkManager
 
-Custom roshi user
+Preconfigured user: roshi
 
-Bootable ISO via grub-mkrescue
+Bootable ISO generated with grub-mkrescue
 
-Minimal base system, chroot-optimized
+Minimal base system inside a custom chroot
 
 🐉 Why “Roshi Fcking OS”?
 
-Because like Master Roshi:
+Because it’s:
 
-It looks simple, but it’s powerful
+Simple but powerful
 
-It’s light, but it can destroy mountains
+Lightweight but capable
 
-It’s old-school, but still badass
+Fast, clean, and no-nonsense
 
-And yes… it knows how to keep things smooth
+Inspired by a character who looks harmless… until he isn’t
 
 📜 Credits
 
-Created by Roshi Labs.
-Inspired by Dragon Ball Z.
-Powered entirely by open-source Linux magic.
+Creator: Mario
 
-If you want, I can also make:
+Dedicated to: Roshi
 
-🔥 A DBZ-style logo for Roshi OS
-🔥 A Turtle School emblem for the boot screen
-🔥 A GRUB boot menu themed like the DBZ intro
-🔥 A custom wallpaper with Master Roshi
+Inspiration: Dragon Ball Z
+
+Powered by: Open-source Linux tools
+
+If you want, I can also add:
+
+A Turtle Hermit ASCII logo
+
+A Dragon Ball–styled banner
+
+Badges like “Powered by Cinnamon” or “Built the Hard Way”
 
 Just say the word.
